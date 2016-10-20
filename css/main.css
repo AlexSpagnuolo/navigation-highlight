@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 h2 {
+  color: #cc1465;
+  font-family: 'Sigmar One', cursive;
+}
