@@ -14,7 +14,7 @@ h1 {
 }
 
 h1, h2 {
-  color: #cc1465;
+  color: #b20953;
   font-family: 'Sigmar One', cursive;
 }
 
@@ -28,4 +28,16 @@ p {
 
 nav, footer {
   background-color: #ffe500;
+}
+
+li, a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #b2a212;
+  color: white;
+  list-style-type: none;
+}
+
+a:hover {
+  background-color: #cc1465;
 }
